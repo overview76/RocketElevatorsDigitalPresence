@@ -1,0 +1,99 @@
+/**BTM fo the compagny**/
+.btn-warning2 {
+  color: #212529;
+  background-color: rgba(248, 72, 72, 0.87);
+  border-color: #ff0707b4;
+}
+.btn-warning2:hover {
+  color: #212529;
+  background-color: hsla(0, 13%, 56%, 0.514);
+  border-color: rgba(255, 5, 5, 0.274);
+}
+/**regular btn**/
+.btn-warning1 {
+  color: #212529;
+  background-color: #2c07ff6e;
+  border-color: #2c07ff4f;
+}
+.btn-warning1:hover {
+  color: #212529;
+  background-color: #4dbeff;
+  border-color: #4dbeff;
+}
+.btn-contact {
+  color: #212529;
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255);
+}
+.btn-contact:hover {
+  color: #212529;
+  background-color: rgb(248, 99, 99);
+  border-color: rgb(248, 99, 99);
+}
+.sky{
+  color: rgb(0, 132, 255);
+}
+.red{
+  font-size: 30px;
+  color: red;
+  
+}
+.marge{
+  left: 200px;
+}
+.marge2{
+  left: 200px;
+  bottom: 24px;
+}
+.not_show{
+  display: none;
+}
+.btn-next{
+  left:235px;
+  bottom: -34px;
+}
+.btn-next1{
+  left:265px;
+  bottom: -54px;
+}
+.btn-next2{
+  left: 265px;
+  bottom: -55px;
+}
+.row2{
+  left: 250px;
+  bottom: -30px;
+}
+.row2-1{
+  left: 250px;
+  bottom: 18px;
+}
+.row3{
+  left: 250px;
+  bottom: -20px;
+}
+
+.row3-2{
+  left: 250px;
+  bottom: -30px;
+}
+.row4{
+  left: 250px;
+  bottom: 00px;
+}
+.row4-1{
+  left: 250px;
+  bottom: -24px;
+}
+.row4-2{
+  left: 250px;
+  bottom: 24px;
+}
+.Building_Type{
+  left: 235px;
+  bottom: 0px;
+}
+.btn-radio{
+  left: 235px;
+  top: 60px;
+}
